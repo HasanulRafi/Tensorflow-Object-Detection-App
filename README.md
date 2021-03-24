@@ -29,3 +29,7 @@ pip install jupyter
 ## Models used in Tensorflow Object Detection API
 
 ![Models used in Tensorflow Object Detection API](https://cdn-images-1.medium.com/max/800/1*-EyxSs2OiyWm-E6MSpSJiA.png)
+
+
+Code Reference and Credit:
+https://www.youtube.com/watch?v=Vz477oxfo-E
